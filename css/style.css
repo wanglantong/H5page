@@ -122,7 +122,7 @@ ul,li{
 	width: 7rem;
 	height: 7rem;
 	position: absolute;
-	left: 0;right: 0;bottom:8rem;margin: auto;
+	left: 0;right: 0;bottom:6rem;margin: auto;
 	background: url(../images/5.png) no-repeat center center;
 	-webkit-background-size: 100%;
 	background-size: 100%;
